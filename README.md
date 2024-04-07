@@ -1,9 +1,9 @@
-
-```markdown
 # InfinityCreator
 
 
-InfinityCreator is a cutting-edge platform designed to unleash the full potential of multimedia conversion. Built with the power of Next.js, FFmpeg, and WebAssembly (WASM), it offers limitless possibilities for transforming images,  and videos effortlessly and free of charge. Dive into a world where creativity knows no bounds, and elevate your content like never before.
+InfinityCreator is a cutting-edge platform designed to unleash the full potential of multimedia conversion.
+Built with the power of Next.js, FFmpeg, and WebAssembly (WASM), it offers limitless possibilities for transforming images,
+and videos effortlessly and free of charge. Dive into a world where creativity knows no bounds, and elevate your content like never before.
 
 ## Features
 
