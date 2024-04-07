@@ -19,10 +19,10 @@ export default function Navbar({}): any {
       <Link href="/">
         <Image
           alt="logo"
-          className="cursor-pointer w-40"
+          className="cursor-pointer w-20 pt-2 pb-2"
           src="/images/logo1.svg"
-          height={20}
-          width={30}
+          height={10}
+          width={20}
         />
       </Link>
       <div className="gap-1 md:gap-2 lg:gap-4 hidden md:flex">
