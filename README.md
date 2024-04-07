@@ -1,9 +1,19 @@
 # InfinityCreator
 
 
-InfinityCreator is a cutting-edge platform designed to unleash the full potential of multimedia conversion.
-Built with the power of Next.js, FFmpeg, and WebAssembly (WASM), it offers limitless possibilities for transforming images,
-and videos effortlessly and free of charge. Dive into a world where creativity knows no bounds, and elevate your content like never before.
+InfinityCreator is a new kind of platform that's all about changing your videos and images in ways you want, without having to worry about your private stuff getting out there. Imagine you've got a cool video or picture you want to change a bit—maybe make the video a different format, or change the picture size. Usually, you'd have to send your stuff off to some website to do this, and who knows where it ends up? But with InfinityCreator, all this magic happens right in your own computer or phone.
+
+Here’s how it does its thing:
+
+- **Next.js**: This is like the brain behind how everything looks and works smoothly on InfinityCreator. It helps make sure that whether you're on your phone or computer, things look good and work fast.
+
+- **FFmpeg**: Think of FFmpeg as the Swiss Army knife for changing videos and pictures. It can pretty much do anything you need to your files, but usually, it needs to work on a big computer somewhere else. 
+
+- **WebAssembly (WASM)**: This is where the real magic happens. WebAssembly lets us take that Swiss Army knife and make it work super fast right on your own device. So instead of sending your files away to get changed, we can do all that heavy lifting without them ever leaving your sight.
+
+By using these three tech superstars, InfinityCreator makes sure that when you want to change your videos or pictures, it's all done right where you are—on your device. This way, your files don’t have to go on a journey across the internet, keeping them safe and sound with you.
+
+So, in short, InfinityCreator uses some really cool tech to let you do all sorts of changes to your images and videos easily and safely, without worrying about your privacy. It's all about giving you the tools to be creative, right at your fingertips.
 
 ## Features
 
