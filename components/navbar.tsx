@@ -20,7 +20,7 @@ export default function Navbar({}): any {
         <Image
           alt="logo"
           className="cursor-pointer w-40"
-          src="/images/logo192.png"
+          src="/images/logo1.svg"
           height={20}
           width={30}
         />
