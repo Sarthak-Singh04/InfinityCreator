@@ -21,7 +21,7 @@ export default function Navbar({}): any {
           alt="logo"
           className="cursor-pointer w-40"
           src="/images/logo.svg"
-          height={100}
+          height={40}
           width={170}
         />
       </Link>
@@ -43,7 +43,7 @@ export default function Navbar({}): any {
       <Link href="https://github.com/Sarthak-Singh04/InfinityCreator">
         <Button
           variant="default"
-          className="rounded-full w-fit bg-orange-600 gap-2 items-center hidden md:flex"
+          className="rounded-full w-fit bg-[ #8A3FFC] gap-2 items-center hidden md:flex"
           size="lg"
         >
           <span>Github Repo</span>
