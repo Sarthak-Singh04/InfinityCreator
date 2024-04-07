@@ -20,7 +20,7 @@ export default function Navbar({}): any {
         <Image
           alt="logo"
           className="cursor-pointer w-40"
-          src="https://www.svgrepo.com/show/530534/medicine-icon.svg"
+          src="https://ffmpegwasm.netlify.app/img/logo192.png"
           height={20}
           width={50}
         />
