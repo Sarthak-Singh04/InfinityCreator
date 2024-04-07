@@ -20,9 +20,9 @@ export default function Navbar({}): any {
         <Image
           alt="logo"
           className="cursor-pointer w-40"
-          src="https://ffmpegwasm.netlify.app/img/logo192.png"
-          height={20}
-          width={50}
+          src="/images/logo192.png"
+          height={80}
+          width={80}
         />
       </Link>
       <div className="gap-1 md:gap-2 lg:gap-4 hidden md:flex">
