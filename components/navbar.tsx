@@ -20,7 +20,7 @@ export default function Navbar({}): any {
         <Image
           alt="logo"
           className="cursor-pointer w-40"
-          src="/images/logo.svg"
+          src="https://www.svgrepo.com/show/530534/medicine-icon.svg"
           height={20}
           width={50}
         />
