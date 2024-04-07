@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ['latin'] });
 export const metadata: Metadata = {
   title: 'InfinityConvert: Convert Images, Videos, & Audio for Free',
   description: `Discover the ease of media conversion with InfinityConvert – your go-to tool for transforming images, audio, and videos for free. Experience limitless creativity without any restrictions. Start your seamless conversion journey today!`,
-  creator: 'SOUHAIL BEN-LHACHEMI',
+  creator: 'Sarthak Singh',
   keywords:
     'image converter, video converter, audio converter, free media conversion, easy file converter',
 };
